@@ -18,7 +18,6 @@
 </table>
 
 <img src="https://streak-stats.demolab.com?user=vangogh-git&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vangogh-git/vangogh-git/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vangogh-git/vangogh-git/output/github-contribution-grid-snake.svg" />
