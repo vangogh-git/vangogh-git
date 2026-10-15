@@ -2,7 +2,7 @@
 
 
 
-<img src="mario.gif" width="700" alt="Mario room" />
+<img src="mario (1).gif" width="700" alt="Mario room" />
 
 # Hi 👋, I'm Vani
 
