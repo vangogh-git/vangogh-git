@@ -1,8 +1,7 @@
-# Hi, I'm Vani , Nice to Meet You!!!
+# Hi, I'm Vani , Nice to Meet You!
 
 <sub>3rd year B.Tech student</sub>
-
-<sub><i>Stay Calm and Let your hard work pay off</i></sub>
+<h3 align="center"><i>"May your hard work pays off"</i></h3>
 
 <br/>
 
