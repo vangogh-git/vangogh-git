@@ -2,10 +2,8 @@
 <sub>3rd year B.Tech student</sub>
 
 <br/>
-
 <a href="https://github.com/vangogh-git"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vani-singh-004520410"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-
 <br/><br/>
 
 <table>
