@@ -1,9 +1,14 @@
 # Hi, I'm Vani , Nice to Meet You!!!
+
 <sub>3rd year B.Tech student</sub>
 
+<sub><i>Stay Calm and Let your hard work pay off</i></sub>
+
 <br/>
+
 <a href="https://github.com/vangogh-git"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vani-singh-004520410"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+
 <br/><br/>
 
 <table>
@@ -17,7 +22,7 @@
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=vangogh-git&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" />
+<img src="https://streak-stats.demolab.com?user=vangogh-git&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" width="450" /><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vangogh-git/vangogh-git/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vangogh-git/vangogh-git/output/github-contribution-grid-snake.svg" />
@@ -39,3 +44,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="44" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0d1117&height=100&section=footer" width="100%" />
+
+</div>
