@@ -2,14 +2,10 @@
 
 <sub>3rd year B.Tech student</sub>
 <h3 align="center"><i>"May your hard work pays off"</i></h3>
-
 <br/>
-
 <a href="https://github.com/vangogh-git"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vani-singh-004520410"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-
 <br/><br/>
-
 <table>
 <tr>
 <td align="center" valign="middle">
@@ -20,14 +16,12 @@
 </td>
 </tr>
 </table>
-
 <img src="https://streak-stats.demolab.com?user=vangogh-git&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" width="450" /><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vangogh-git/vangogh-git/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vangogh-git/vangogh-git/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/vangogh-git/vangogh-git/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
-
 <p>
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="44" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="44" />
@@ -42,7 +36,3 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="44" />
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="44" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0d1117&height=100&section=footer" width="100%" />
-
-</div>
