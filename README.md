@@ -1,8 +1,10 @@
 <!-- Keep happy-coder.gif and mario.gif in the repo root -->
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=140&section=header" width="100%" />
 
-<img src="mario (1).gif" width="700" alt="Mario room" />
+<img src="mario.gif" width="700" alt="Mario room" />
 
 # Hi 👋, I'm Vani
 
@@ -10,16 +12,22 @@
 
 <br/>
 
-<img src="happy-coder.gif" width="260" alt="Happy Coder" />
-
-<br/><br/>
-
 <a href="https://github.com/vangogh-git"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vani-singh-004520410"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vangogh-git&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" />
+<table>
+<tr>
+<td align="center" valign="middle">
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=vangogh-git&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" alt="GitHub stats" />
+</td>
+<td align="center" valign="middle">
+<img src="happy-coder.gif" width="240" alt="Happy Coder" />
+</td>
+</tr>
+</table>
+
 <img src="https://streak-stats.demolab.com?user=vangogh-git&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" />
 
 <picture>
