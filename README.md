@@ -1,5 +1,6 @@
-
-<img src="mario (1).gif" width="700" aligh="center" alt="Mario room" />
+<p align="center">
+  <img src="mario (1).gif" width="700" alt="Mario room" />
+</p>
 
 # Hi 👋, I'm Vani
 
