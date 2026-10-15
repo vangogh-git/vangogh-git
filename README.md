@@ -1,5 +1,10 @@
+<!-- Keep happy-coder.gif and mario.gif in the repo root -->
 
-<img src="mario.gif" width="100%" alt="Mario room" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=140&section=header" width="100%" />
+
+<img src="mario.gif" width="500" alt="Mario room" />
 
 # Hi 👋, I'm Vani
 
