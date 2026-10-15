@@ -1,4 +1,4 @@
-<!-- Replace YOUR-USERNAME, YOUR-NAME, YOUR-LINKEDIN, YOUR-EMAIL. Keep happy-coder.gif in the repo root -->
+<!-- Keep happy-coder.gif in the repo root -->
 
 <div align="center">
 
@@ -19,7 +19,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="44" />
 </p>
 
-# Hi 👋, I'm YOUR-NAME
+# Hi 👋, I'm Vani
 
 <sub>3rd year B.Tech student</sub>
 
@@ -29,14 +29,13 @@
 
 <br/><br/>
 
-<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://github.com/vangogh-git"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vani-singh-004520410"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" />
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vangogh-git&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" />
+<img src="https://streak-stats.demolab.com?user=vangogh-git&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0d1117&height=100&section=footer" width="100%" />
 
