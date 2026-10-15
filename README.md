@@ -2,8 +2,7 @@
   <img src="mario (1).gif" width="700" alt="Mario room" />
 </p>
 
-# Hi, I'm Vani 
-# Nice to Meet You!!!
+# Hi, I'm Vani , Nice to Meet You!!!
 <sub>3rd year B.Tech student</sub>
 
 <br/>
