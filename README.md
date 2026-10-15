@@ -22,6 +22,12 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vangogh-git&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" />
 <img src="https://streak-stats.demolab.com?user=vangogh-git&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vangogh-git/vangogh-git/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vangogh-git/vangogh-git/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/vangogh-git/vangogh-git/output/github-snake-dark.svg" width="100%" />
+</picture>
+
 <p>
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="44" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="44" />
